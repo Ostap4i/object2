@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\летючий обєкт\bin\Debug\летючий обєкт.exe.config
+C:\Users\student\source\repos\летючий обєкт\bin\Debug\летючий обєкт.exe
+C:\Users\student\source\repos\летючий обєкт\bin\Debug\летючий обєкт.pdb
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий обєкт.csprojAssemblyReference.cache
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий_обєкт.Form1.resources
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий_обєкт.Properties.Resources.resources
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий обєкт.csproj.GenerateResource.cache
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий обєкт.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий обєкт.exe
+C:\Users\student\source\repos\летючий обєкт\obj\Debug\летючий обєкт.pdb
